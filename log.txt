@@ -1,0 +1,80 @@
+
+Operator Ordered Item: lol
+
+
+
+Clerk Shipped Item: lol
+
+
+Operator Ordered Item: nfl
+
+Operator Ordered Item: exit
+
+Operator Ordered Item: cold
+
+Clerk Shipped Item: nfl
+
+Operator Ordered Item: miles
+
+Clerk Shipped Item: exit
+
+Clerk Shipped Item: cold
+
+Clerk Shipped Item: miles
+
+Operator Ordered Item: Hello
+
+Operator Ordered Item: Abdulio
+
+Operator Ordered Item: How
+
+Operator Ordered Item: are
+
+Operator Ordered Item: you?
+
+Clerk Shipped Item: Hello
+
+Clerk Shipped Item: Abdulio
+
+Clerk Shipped Item: How
+
+Clerk Shipped Item: are
+
+Clerk Shipped Item: you?
+
+Operator Ordered Item: testing
+
+Operator Ordered Item: 2
+
+Operator Ordered Item: 3
+
+Operator Ordered Item: 4
+
+Operator Ordered Item: 5
+
+Clerk Shipped Item: testing
+
+Operator Ordered Item: 6
+
+Clerk Shipped Item: 2
+
+Clerk Shipped Item: 3
+
+Clerk Shipped Item: 4
+
+Clerk Shipped Item: 5
+
+Clerk Shipped Item: 6
+
+Operator Ordered Item: 22
+
+Clerk Shipped Item: 22
+
+Operator Ordered Item: alright
+
+Clerk Shipped Item: alright
+
+Operator Ordered Item: water
+
+Clerk Shipped Item: water
+
